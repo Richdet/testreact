@@ -21,7 +21,7 @@ const App = () => {
 
             <footer>
                 <small>
-                    powered by <a href="http://www.kikoya.mx/">Kikoya</a>
+                    powered by <a href="http://www.talentscode.com/">TalentsCode</a>
                 </small>
             </footer>
         </div>
